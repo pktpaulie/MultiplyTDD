@@ -13,4 +13,4 @@ class MultiplyTest(unittest.TestCase):
         """calling the assertEqual function"""
         
 
-        self.assertEqual(multiply(1, 1), 1)
+        self.assertEqual(multiply(3, 3), 9)
