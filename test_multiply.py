@@ -7,4 +7,4 @@ from multiply import multiply
 def test_multiply():
     """calling the assertEqual function"""
 
-    assert multiply(1, 1) == 1
+    assert multiply(2, 2) == 4

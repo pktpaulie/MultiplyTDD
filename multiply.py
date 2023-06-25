@@ -4,4 +4,4 @@
 def multiply(var_a, var_b):
     """Function to multiply"""
 
-    return 1
+    return var_a * var_b
