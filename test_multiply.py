@@ -1,7 +1,7 @@
 """Using the pytest method for unit testing"""
 
 
-#from multiply import multiply
+from multiply import multiply
 
 
 def test_multiply():
