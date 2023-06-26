@@ -23,11 +23,3 @@ def multiply_new(var_a, var_b):
             result = result + var_a
 
     return result
-
-
-"""
-    x = var_b - 1
-    while x != 0:
-        result = result + var_a
-        x = x - 1
-"""
