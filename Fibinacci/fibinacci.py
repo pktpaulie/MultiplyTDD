@@ -30,9 +30,9 @@ def fibinacci_2(num):
     counter = 1
 
     for x in range(1,num):  # x helps us to iterate over the loop
-        temp_val = result
-        result = result + counter
-        counter = temp_val
+        temp_val = result   # store result in a temporary variable
+        result = result + counter # get the next number in the sequence
+        counter = temp_val  # set counter to previous number in sequence
 
 
     return result
